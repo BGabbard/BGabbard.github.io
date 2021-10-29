@@ -1,0 +1,28 @@
+/* img {
+  height: 300px
+}
+main {
+  background-color: darkgray;
+  color: maroon
+}
+body {
+  background-image: url("bridge.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%
+}
+#wrapper {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+html {
+  list-style-image: url(heylisten.png)
+}
+.specialborder {
+  border: 35px solid transparent;
+  padding: 35px;
+  border-image: url(BorderImage.png) 10% round;
+}
+#gaster {
+  margin-left: 60px
+} */
