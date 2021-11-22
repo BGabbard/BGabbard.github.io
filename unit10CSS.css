@@ -1,0 +1,17 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: azure
+}
+
+th, td {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+img {
+  width: 100px;
+  height: 100px
+}
